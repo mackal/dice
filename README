@@ -1,0 +1,6 @@
+Run as:
+    dice 3d6
+
+Ever since playing DND I always wanted to write a simple program that would
+do dice rolling in this manner, so I wrote this, not very amazing.
+
